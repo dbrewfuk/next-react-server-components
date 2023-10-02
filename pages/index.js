@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div className="container">
-      <h1>React Server Components in Next.js</h1>
+      <h1>Cool React Server Components in Next.js</h1>
       <h2>Without Streaming</h2>
       <section>
         <a href="/csr" target="_blank">
